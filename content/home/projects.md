@@ -4,11 +4,11 @@ widget = "projects"
 active = true
 date = "2016-04-20T00:00:00"
 
-title = "Projects"
+title = "Projects & work in progress"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 3
 
 # Content.
 # Display content from the following folder.
@@ -31,6 +31,13 @@ filter_default = 0
 # [[filter]]
 #   name = "All"
 #   tag = "*"
+
+#[[filter]]
+#  name = "MFG"
+ #  tag = "*"
+#   url = 
+   #<a href="static/Pres_MFG_MiMh.pdf" target="_blank">Slides</a>
+
 #  
 # [[filter]]
 #   name = "Deep Learning"
